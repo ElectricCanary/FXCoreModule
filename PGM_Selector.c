@@ -3,6 +3,10 @@
  *
  * Created: 06/12/2021 21:14:55
  * Author : Antoine Ricoux for Electric Canary
+ 
+ For Attiny202
+ Analog value to 4bit value converter to select one of 16 programs from a potentiometer.
+ 
  */ 
 
 #include <avr/io.h>
