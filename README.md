@@ -4,9 +4,9 @@ FXCore Module is a very compact development board for the Experimental Noize FXC
 
 It's breadboard friendly and easily incorporated on a PCB. It's in a stereo configuration and the converter chips are CS4344 and CS5343.
 
-You'll find 
+You'll find the full documentation, ECAD libraries and the source code for the program selector used to select from the 16 program with a single pot.
 
-[electric-canary.com\fxcoremodule](electric-canary.com\fxcoremodule)
+[electric-canary.com\fxcoremodule](https://electric-canary.com\fxcoremodule)
 
 contact@electric-canary.com
 
