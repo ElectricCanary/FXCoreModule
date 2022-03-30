@@ -6,7 +6,7 @@ It's breadboard friendly and easily incorporated on a PCB. It's in a stereo conf
 
 You'll find the full documentation, ECAD libraries and the source code for the program selector used to select from the 16 program with a single pot.
 
-[electric-canary.com\fxcoremodule](https://electric-canary.com\fxcoremodule)
+[https://electric-canary.com/fxcoremodule](https://electric-canary.com/fxcoremodule)
 
 contact@electric-canary.com
 
